@@ -1,0 +1,64 @@
+.service-heading{
+    display: block;
+    float: right;
+    margin-top: -20px;
+    font-family: redo;
+}
+.serviceassign-form{
+    height: auto;
+    padding-bottom: 10px;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+    border-radius: 5px;
+}
+.serviceassign-form h5{
+    font-family:redo;
+    padding: 23px 10px 0px 20px;
+}
+.serviceassign-form table tr td{
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    font-family: redo;
+}
+.serviceassign-form table tr td input[type="text"], input[type="date"],  input[type="email"]{
+    width: 360px;
+    height: 40px;
+    border-radius: 0px;
+    padding-top: 10px;
+}
+.serviceassign-form table tr td select{
+    width: 360px;
+    height: 40px;
+    border-radius: 0px;
+    padding-top: 10px;
+}
+.serviceassign-form table tr td textarea{
+    width: 1191px;
+    border-radius: 0px;
+    height: 80px;
+    padding-top: 10px;
+}
+.serviceassign-form .btn{
+    display: block;
+    float: right;
+}
+.serviceassign-form .btn .btn-submit{
+    border: none;
+    background-color: #F49D1A;
+    color: #fff;
+    font-family: redo;
+    padding: 10px 10px 10px 10px;
+    font-family: redo;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+    text-decoration: none;
+}
+.serviceassign-form .btn button{
+    border: none;
+    color: #fff;
+    font-family: redo;
+    padding-top: 7px;
+    padding-bottom:7px;
+    margin-top: 1px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+}
